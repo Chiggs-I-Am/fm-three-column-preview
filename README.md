@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Chiggs-I-Am/fm-three-column-preview-card)
+- Live Site URL: [View live example](https://chiggs-i-am.github.io/fm-three-column-preview-card)
 
 ## My process
 
@@ -45,36 +45,16 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+It was somewhat difficult to wrap my head around positioning items with Flexbox and Grid but responsive design is great.
 
 ### Continued development
 
-I will digging deeper into Responsive Design to help with the future projects.
+I will be digging deeper into Responsive Design to help with the future projects.
 
 ### Useful resources
 
-- [Example resource 1](https://css-tricks.com/snippets/css/complete-guide-grid/) - Still not a CSS Grid guru but the stuff here helped alot 😊.
-- [Example resource 2](https://www.google.com) - Just use it when the headache comes in 😂🤣😁.
+- [CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/) - Still not a CSS Grid guru but the stuff here helped alot 😊.
+- [Google](https://www.google.com) - Just use it when the headache comes in 😂🤣😁.
 
 ## Author
 
